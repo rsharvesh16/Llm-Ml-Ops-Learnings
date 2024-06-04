@@ -1,0 +1,4 @@
+langchain
+python-dotenv
+sentence_transformers
+langchain-community
