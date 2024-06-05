@@ -1,7 +1,5 @@
 # Llm-Ml-Ops-Learnings
 
-# README
-
 ## Welcome to My Journey in LLM, ML, and MLOps
 
 Hello! I'm thrilled to have you here as I embark on my learning adventure into the world of Large Language Models (LLM), Machine Learning (ML), and Machine Learning Operations (MLOps). This repository will serve as a hub for all the resources, notes, and projects that I gather and create along the way.
