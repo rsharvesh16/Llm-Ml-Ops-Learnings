@@ -2,3 +2,4 @@ venv/
 Langchain/chatbot/chatenv/
 Langchain/chatbot/.env
 Langchain/opensource/env2/
+Langchain/opensource/api-chatbot/.env
