@@ -3,3 +3,9 @@ Langchain/chatbot/chatenv/
 Langchain/chatbot/.env
 Langchain/opensource/env2/
 Langchain/opensource/api-chatbot/.env
+AI-Models/img2text/__pycache__
+AI-Models/text2audio/.env
+AI-Models/text2text/.env
+AI-Models/text2img/.env
+AI-Models/text2code/.env
+AI-Models/img2text/.env
