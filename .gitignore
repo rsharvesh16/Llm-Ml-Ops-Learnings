@@ -9,3 +9,4 @@ AI-Models/text2text/.env
 AI-Models/text2img/.env
 AI-Models/text2code/.env
 AI-Models/img2text/.env
+AI-Models/text2translation/.env
