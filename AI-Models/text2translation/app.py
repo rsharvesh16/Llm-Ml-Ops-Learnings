@@ -22,8 +22,7 @@ def main():
     input_text = st.text_input("Enter your text:", key="input")
     input_lang = st.text_input("Enter your language to Translate", key=input)
 
-    target_language = st.selectbox("Select target language for translation", {input_lang})
-    prompt = f"Translate the following text to {target_language}: {input_text}"
+    prompt = f"Translate the exact following text to {input_lang}: {input_text}"
     
 
     if st.button("Generate Output"):
