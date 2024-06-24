@@ -20,8 +20,9 @@ def main():
 
     # Get user input
     input_text = st.text_input("Enter your text:", key="input")
+    input_lang = st.text_input("Enter your language to Translate", key=input)
 
-    target_language = st.selectbox("Select target language for translation", ["English", "Spanish", "Chinese", "Hindi", "Arabic", "Portuguese", "Bengali", "Russian", "Japanese", "German", "Wu (Shanghainese)", "Vietnamese", "Korean", "French", "Turkish", "Italian", "Yue (Cantonese)", "Thai", "Jin", "Southern Min", "Polish"])
+    target_language = st.selectbox("Select target language for translation", {input_lang})
     prompt = f"Translate the following text to {target_language}: {input_text}"
     
 
